@@ -3,7 +3,7 @@
 <h3 align="center">CSE-AIML Student | Aspiring Full Stack Developer | Exploring AI 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;CSE-AIML+Student;Learning+Full+Stack+Development;Exploring+AI+%26+Machine+Learning;Building+Projects+%26+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;CSE-AIML+Student;Learning+Full+Stack+Development;Exploring+AI+%26+Machine+Learning;Building+Projects+%26+Learning+Every+Day" />
 </p>
 
 ---
@@ -23,47 +23,21 @@
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=c,python" />
 </p>
 
 ### 🌐 Web Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 ### 🔧 Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🚀 My Projects
-
-| Project | Description |
-|--------|-------------|
-| 🏥 **MedLink** | Healthcare-focused hackathon project |
-| 🌦️ **Weather App** | Web application for checking weather information |
-| ✅ **To-Do List** | Simple task management web application |
-| 🌐 **Portfolio** | Personal portfolio website |
-| 💻 **Internship Projects** | Web development projects created during internships |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cherlasindhura29&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cherlasindhura29&theme=tokyonight" />
 </p>
 
 ---
@@ -82,4 +56,4 @@
 
 ---
 
-<h3 align="center">✨ "Learning today, building tomorrow." ✨</h3>
+<h3 align="center">✨ Learning today, building tomorrow. ✨</h3>
